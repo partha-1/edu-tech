@@ -1,3 +1,19 @@
+.bg-gray {
+    background: #4A4A4A;
+}
+
+.overly {
+    filter: brightness(40%);
+}
+
+.custom-bg {
+    background: #646769;
+}
+
+.carousel-custom-items {
+    top: 35%;
+}
+
 @media only screen and (min-width:0px) and (max-width:991px) {
     .hide-part {
         display: none;
